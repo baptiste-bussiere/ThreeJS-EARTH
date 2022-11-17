@@ -216,7 +216,7 @@ const tick = () =>
     moonGeometry.position.z = Math.sin(elapsedTime) * 1.5
     moonGeometry.rotation.y = elapsedTime * 1.5
     // Update the sphere
-    sphere.rotation.x = elapsedTime * 0.5
+    sphere.rotation.y = elapsedTime * 0.5
     
     
 
