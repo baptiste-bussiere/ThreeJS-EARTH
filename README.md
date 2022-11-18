@@ -11,7 +11,7 @@ Retrouver le projet [ici](https://three-js-earth-three.vercel.app/) !
 
 ## Lancer le projet
 
-## Run Locally
+
 
 Cloner le projet 
 
