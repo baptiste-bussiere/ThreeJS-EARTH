@@ -1,7 +1,7 @@
 
 # THREE EARTH
 
-Projet réalisé, en suivant le cours de [Bruno Simon](https://bruno-simon.com). Un grand merci a lui pour sa [formation](https://threejs-journey.com/) très complète.
+Projet réalisé, en suivant le cours de [Bruno Simon](https://bruno-simon.com). Un grand merci à lui pour sa [formation](https://threejs-journey.com/) très complète.
 
 Vue 3D de la terre et de la lune en utilisant des textures. 
 
